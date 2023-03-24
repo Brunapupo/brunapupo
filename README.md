@@ -1,4 +1,4 @@
-<h1>Olá! eu sou Bruna Pupo desenvolvedora Front-end Flutter<h1>
+<h1>Olá! eu sou Bruna Pupo desenvolvedora Front-end Flutter</h1>
 
 
 
