@@ -2,9 +2,7 @@
 
 
 
-👩🏽‍🎓 I'm currently studying
-Information Science and Programming
-at the Federal University of Santa Catarina
+👩🏽‍🎓 Atualmente estou cursando Ciência da Informação e Sistemas de Informação na Universidade Federal de Santa Catarina
 
 📧 contact me by email: brunapupopupo@gmail.com
 
