@@ -30,6 +30,7 @@ at the Federal University of Santa Catarina
 	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2-pt-br/img/cards/web/SM115/SM115_PT-BR_42.png">
 	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH6/SWSH6_EN_168.png">
 	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2-pt-br/img/cards/web/SM2/SM2_PT-BR_22.png">
+	<img align="center" alt="Brunapupo" src="https://i.gifer.com/2iiJ.gif">
 </div>	
 	
 ##
