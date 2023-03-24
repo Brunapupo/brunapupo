@@ -1,6 +1,6 @@
-Hello! I'm Bruna Pupo
+Olá! eu sou Bruna Pupo desenvolvedora Front End Flutterhttps://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
 
-🐍 i'm currently learning python
+
 
 👩🏽‍🎓 I'm currently studying
 Information Science and Programming
@@ -38,7 +38,7 @@ at the Federal University of Santa Catarina
 	
 <div> 
   <a href = "brunapupopupo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://www.linkedin.com/in/bruna-dias-pupo-0ab221199/target=" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://www.linkedin.com/in/bruna-dias-pupo-0ab221199/target="target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
