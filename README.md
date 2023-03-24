@@ -1,4 +1,4 @@
-Olá! eu sou Bruna Pupo desenvolvedora Front End Flutterhttps://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+<h1>Olá! eu sou Bruna Pupo desenvolvedora Front-end Flutter<h1>
 
 
 
