@@ -1,6 +1,6 @@
-##Olá, Devs! 
+<p><strong>Olá, Devs!</strong></p>
+<p><strong>Meu nome é Bruna Pupo e meu apelido é "Pupo"!</strong></p>
 
-##Meu nome é Bruna Pupo e meu apelido é "Pupo"!
 
 👩🏽‍🎓 Atualmente estou cursando Ciência da Informação e Sistemas de Informação na Universidade Federal de Santa Catarina
 
