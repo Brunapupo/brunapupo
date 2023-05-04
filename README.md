@@ -1,6 +1,6 @@
-<h1>Olá! eu sou Bruna Pupo desenvolvedora Front-end Flutter</h1>
+##Olá, Devs! 
 
-
+##Meu nome é Bruna Pupo e meu apelido é "Pupo"!
 
 👩🏽‍🎓 Atualmente estou cursando Ciência da Informação e Sistemas de Informação na Universidade Federal de Santa Catarina
 
