@@ -1,8 +1,11 @@
 <p><strong>Olá, Devs!</strong></p>
 <p><strong>Meu nome é Bruna Pupo e meu apelido é "Pupo"!</strong></p>
 
+<p><strong>Sou desenvolvedora front-end com experiência em trabalhar com a linguagem Dart e o framework Flutter. Estou em constante aprimoramento, sempre buscando novas habilidades e atualizações sobre as últimas tendências em tecnologia.</strong></p>
 
-👩🏽‍🎓 Atualmente estou cursando Ciência da Informação e Sistemas de Informação na Universidade Federal de Santa Catarina
+👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc
+👩🏽‍🎓 Estudante do curso da Sistemas da Informação - Estácio
+
 
 📧 contact me by email: brunapupopupo@gmail.com
 
@@ -12,6 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunapupo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
+	
+           <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img align="center" alt="Brunapupo-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Brunapupo-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Brunapupo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,18 +24,7 @@
 	
 <br>
 	
-<div>
-	<img align="center" alt="Brunapupo" src="https://i.gifer.com/2iiJ.gif">
-	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2-pt-br/img/cards/web/SWSHP/SWSHP_PT-BR_SWSH111.png">
-	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2-pt-br/img/cards/web/SWSH7/SWSH7_PT-BR_212.png">
-	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2-pt-br/img/cards/web/SWSH8/SWSH8_PT-BR_270.png">
-	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2-pt-br/img/cards/web/SWSH9/SWSH9_PT-BR_TG11.png">
-	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2-pt-br/img/cards/web/SWSH10/SWSH10_PT-BR_TG13.png">
-	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2-pt-br/img/cards/web/SM115/SM115_PT-BR_42.png">
-	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH6/SWSH6_EN_168.png">
-	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2-pt-br/img/cards/web/SM2/SM2_PT-BR_22.png">
-	<img align="center" alt="Brunapupo" src="https://i.gifer.com/2iiJ.gif">
-</div>	
+
 	
 ##
 	
