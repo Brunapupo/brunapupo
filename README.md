@@ -1,7 +1,7 @@
 <p><strong>Olá, Devs!</strong></p>
 <p><strong>Meu nome é Bruna Pupo e meu apelido é "Pupo"!</strong></p>
 
-<p><strong>Sou desenvolvedora front-end com experiência em trabalhar com a linguagem Dart e o framework Flutter. Estou em constante aprimoramento, sempre buscando novas habilidades e atualizações sobre as últimas tendências em tecnologia.</strong></p>
+<p><strong>Atualmente, sou estagiária de desenvolvimento front-end na Doutor-ie, trabalhando com a linguagem Dart e o framework Flutter. Estou em constante aprimoramento, buscando constantemente novas habilidades e atualizações sobre as últimas tendências em tecnologia.</strong></p>
 
 👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc
 👩🏽‍🎓 Estudante do curso da Sistemas da Informação - Estácio
@@ -16,7 +16,9 @@
 </div>
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Brunapupo-HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">	
+<img align="center" alt="Brunapupo-HTML" height="60" width="80" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+          ">	
 <img align="center" alt="Brunapupo-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Brunapupo-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Brunapupo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
