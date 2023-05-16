@@ -4,7 +4,6 @@
 <p><strong>Atualmente, sou estagiária de desenvolvimento front-end na Doutor-ie, trabalhando com a linguagem Dart e o framework Flutter. Estou em constante aprimoramento, buscando constantemente novas habilidades e atualizações sobre as últimas tendências em tecnologia.</strong></p>
 
 👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc
-👩🏽‍🎓 Estudante do curso da Sistemas da Informação - Estácio
 
 
 📧 contact me by email: brunapupopupo@gmail.com
