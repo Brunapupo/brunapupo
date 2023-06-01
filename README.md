@@ -1,7 +1,7 @@
 <p><strong>Olá, Devs!</strong></p>
 <p><strong>Meu nome é Bruna Pupo e meu apelido é "Pupo/Bruninha"!</strong></p>
 
-<p><strong>Atualmente, sou estagiária de desenvolvimento front-end na Doutor-ie, trabalhando com a linguagem Dart e o framework Flutter. Estou em constante aprimoramento, buscando constantemente novas habilidades e atualizações sobre as últimas tendências em tecnologia.</strong></p>
+<p><strong>Atualmente, sou estagiária de desenvolvimento front-end, trabalhando com a linguagem Dart e o framework Flutter. Estou em constante aprimoramento, buscando constantemente novas habilidades e atualizações sobre as últimas tendências em tecnologia.</strong></p>
 
 👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc
 
