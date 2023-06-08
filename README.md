@@ -1,9 +1,10 @@
 <p><strong>Olá, Devs!</strong></p>
+
 <p><strong>Meu nome é Bruna Pupo e meu apelido é "Pupo/Bruninha"!</strong></p>
 
 <p><strong>sou desenvolvedora front-end e atualmente Estou estudando Ciência da Informação na Universidade Federal de Santa Catarina e sou apaixonada pelo universo da programação. 💻
 
-Tenho uma paixão especial por HTML e CSS, mas também sou versada em Python, Dart e JavaScript. Além disso, tenho experiência com os frameworks Flutter e React. Estou sempre em busca de aprimorar minhas habilidades e ficar atualizada com as últimas tendências tecnológicas. 🔥👩
+Tenho uma paixão especial por HTML e CSS, mas também sou versada em Python, Dart e JavaScript. Além disso, tenho experiência com os frameworks Flutter e React. Estou sempre em busca de aprimorar minhas habilidades e ficar atualizada com as últimas tendências tecnológicas. 🔥
 
 Adoro desafios e estou pronta para encarar projetos empolgantes! Vamos trabalhar juntos para criar algo incrível? Estou aberta a conversas e colaborações.  👩🏾‍💻🚀.</strong></p>
 
