@@ -4,7 +4,7 @@
 
 <p><strong>sou desenvolvedora front-end e atualmente Estou estudando Ciência da Informação na Universidade Federal de Santa Catarina e sou apaixonada pelo universo da programação. 💻
 
-Tenho uma paixão especial por HTML e CSS, mas também sou versada em Python, Dart e JavaScript. Além disso, tenho experiência com os frameworks Flutter e React. Estou sempre em busca de aprimorar minhas habilidades e ficar atualizada com as últimas tendências tecnológicas. 👩🏾‍💻🚀
+Tenho uma paixão especial por HTML e CSS, mas também sou versada em Python, Dart e JavaScript. Além disso, tenho experiência com os frameworks Flutter. Estou sempre em busca de aprimorar minhas habilidades e ficar atualizada com as últimas tendências tecnológicas. 👩🏾‍💻🚀
 
 👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc
 
@@ -21,7 +21,7 @@ Tenho uma paixão especial por HTML e CSS, mas também sou versada em Python, Da
 <img align="center" alt="Brunapupo-Html" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Brunapupo-css3" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Brunapupo-css3" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Brunapupo-react" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<!-- <img align="center" alt="Brunapupo-react" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
 <img align="center" alt="Brunapupo-flutter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 <img align="center" alt="Brunapupo-dart" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> 
 <img align="center" alt="Brunapupo-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
