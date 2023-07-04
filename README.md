@@ -1,5 +1,7 @@
 <p><strong>Olá, Devs!</strong></p>
 
+<img class="gif"  src="[images/cat.gif](https://giphy.com/gifs/JIX9t2j0ZTN9S/fullscreen)" alt="GIF Cat">
+
 <p><strong>Meu nome é Bruna Pupo e meu apelido é "Pupo/Bruninha"!</strong></p>
 
 <p><strong>sou desenvolvedora front-end e atualmente Estou estudando Ciência da Informação na Universidade Federal de Santa Catarina e sou apaixonada pelo universo da programação. 💻
