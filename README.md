@@ -13,6 +13,7 @@
   <p><strong>👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc</strong></p>
 
   <p><strong>📧 Contato por email: brunapupopupo@gmail.com</strong></p>
+  <p><strong>🔗 Site portfólio: portfolio-brunapupo.vercel.app/index.html</strong></p>
   <br>
 
   <div align="center">
