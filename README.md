@@ -7,8 +7,7 @@
 
   <p><strong>Meu nome é Bruna Pupo e meu apelido é "Pupo/Bruninha"!</strong></p>
 
-  <p><strong>Sou desenvolvedora front-end e atualmente estou estudando Ciência da Informação na Universidade Federal de Santa Catarina e sou apaixonada pelo universo da programação. 💻</strong></p>
-
+  <p>Sou desenvolvedora front-end e atualmente estou estudando Ciência da Informação na Universidade Federal de Santa Catarina e sou apaixonada pelo universo da programação. 💻</p>
   <p>Tenho uma paixão especial por HTML e CSS, mas também sou versada em Python, Dart e JavaScript. Além disso, tenho experiência com os frameworks Flutter. Estou sempre em busca de aprimorar minhas habilidades e ficar atualizada com as últimas tendências tecnológicas. 👩🏾‍💻🚀</p>
 
   <p><strong>👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc</strong></p>
