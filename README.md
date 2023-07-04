@@ -1,7 +1,7 @@
 <div style="text-align: center;">
   <p><strong>Olá, Devs!</strong></p>
 
-  <div class="mx-auto">
+  <div class="mx-auto"  style="text-align: center;">
     <img height="300" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF Cat">
   </div>
 
@@ -25,6 +25,16 @@
     <img align="center" alt="Brunapupo-Html" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Brunapupo-css3" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Brunapupo-css3" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <!-- <img align="center" alt="Brunapupo-react" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
+    <img align="center" alt="Brunapupo-react" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Brunapupo-flutter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="Brunapupo-dart" height="50"
+    <img align="center" alt="Brunapupo-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+
+  <br>
+
+  <div> 
+    <!--   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://www.linkedin.com/in/bruna-dias-pupo-0ab221199/target="target="_blank"></a>  -->
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  </div>
+</div>
