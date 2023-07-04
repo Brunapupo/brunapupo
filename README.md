@@ -4,6 +4,7 @@
   <div class="mx-auto"  style="text-align: center;">
     <img height="200" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF Cat">
   </div>
+  <br>
 
   <p><strong>Meu nome é Bruna Pupo e meu apelido é "Pupo/Bruninha"!</strong></p>
 
