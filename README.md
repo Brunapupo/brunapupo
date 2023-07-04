@@ -1,7 +1,7 @@
 <p><strong>Olá, Devs!</strong></p>
 
 <div>
-	<img src="http://www.reddit.com/r/reactiongifs/comments/3a8akf/my_cats_reaction_when_i_leave_home/" alt="GIF Cat">
+	<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF Cat">
 </div>
 
 
