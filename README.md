@@ -10,12 +10,11 @@
 
   <p>Sou desenvolvedora front-end e atualmente estou estudando Ciência da Informação na Universidade Federal de Santa Catarina e sou apaixonada pelo universo da programação. 💻<br>Tenho uma paixão especial por HTML e CSS, mas também sou versada em Python, Dart e JavaScript. Além disso, tenho experiência com os frameworks Flutter. Estou sempre em busca de aprimorar minhas habilidades e ficar atualizada com as últimas tendências tecnológicas. 👩🏾‍💻🚀</p>
 
+  <p><strong><a href="https://portfolio-brunapupo.vercel.app/index.html" target="_blank">🔗 Portfólio</a></strong></p>
+  
   <p><strong>👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc</strong></p>
 
   <p><strong>📧 Contato por email: brunapupopupo@gmail.com</strong></p>
-  
-  <p><strong><a href="https://portfolio-brunapupo.vercel.app/index.html" target="_blank">🔗 Portfólio</a></strong></p>
-
   
   <br>
 
