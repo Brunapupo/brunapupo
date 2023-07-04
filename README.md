@@ -13,6 +13,7 @@
   <p><strong>👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc</strong></p>
 
   <p><strong>📧 Contato por email: brunapupopupo@gmail.com</strong></p>
+  <br>
 
   <div align="center">
     <a href="https://github.com/Brunapupo">
@@ -20,7 +21,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunapupo&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
   </div>
-    <br>
+  <br>
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Brunapupo-Html" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
