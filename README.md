@@ -2,7 +2,7 @@
   <p><strong>Olá, Devs!</strong></p>
 
   <div class="mx-auto"  style="text-align: center;">
-    <img height="250" width="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF Cat">
+    <img height="200" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF Cat">
   </div>
 
   <p><strong>Meu nome é Bruna Pupo e meu apelido é "Pupo/Bruninha"!</strong></p>
