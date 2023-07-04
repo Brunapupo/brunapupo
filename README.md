@@ -1,7 +1,7 @@
 <p><strong>Olá, Devs!</strong></p>
 
 <div>
-	<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF Cat">
+	<img height="50" width="70" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF Cat">
 </div>
 
 
