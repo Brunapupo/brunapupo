@@ -1,6 +1,9 @@
 <p><strong>Olá, Devs!</strong></p>
 
-<img class="gif"  src="[images/cat.gif](https://giphy.com/gifs/JIX9t2j0ZTN9S/fullscreen)" alt="GIF Cat">
+<div>
+	<img src="http://www.reddit.com/r/reactiongifs/comments/3a8akf/my_cats_reaction_when_i_leave_home/" alt="GIF Cat">
+</div>
+
 
 <p><strong>Meu nome é Bruna Pupo e meu apelido é "Pupo/Bruninha"!</strong></p>
 
