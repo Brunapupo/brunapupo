@@ -14,7 +14,7 @@
 
   <p><strong>📧 Contato por email: brunapupopupo@gmail.com</strong></p>
   
-  <p><strong><a href="https://portfolio-brunapupo.vercel.app/index.html" target="_blank">🔗 Site portfólio</a></strong></p>
+  <p><strong><a href="https://portfolio-brunapupo.vercel.app/index.html" target="_blank">🔗 Portfólio</a></strong></p>
 
   
   <br>
