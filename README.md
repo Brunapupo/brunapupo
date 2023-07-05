@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <p><strong>Olá, Devs!</strong></p>
 
   <div class="mx-auto"  style="text-align: center;">
