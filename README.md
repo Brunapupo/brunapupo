@@ -1,7 +1,7 @@
-<div align="center">
+<div>
  
 
-  <div class="mx-auto" >
+  <div align="center" class="mx-auto" >
     <img height="200" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF Cat">
   </div>
   <br>
