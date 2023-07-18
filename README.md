@@ -9,12 +9,6 @@
 
 
   <p>👋 Hi, I'm Bruna. I'm a Frontend developer. I love spending time writing CSS and learning new technologies. Every so often, I play video games. </p>
-
-  <p><strong><a href="https://portfolio-brunapupo.vercel.app/index.html" target="_blank">🔗 Portfólio</a></strong></p>
-  
-  <p><strong>👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc</strong></p>
-
-  <p><strong>📧 Contato por email: brunapupopupo@gmail.com</strong></p>
   
   <br>
 
@@ -37,7 +31,11 @@
   </div>
 
   <br>
+  <p  align="center"><strong><a href="https://portfolio-brunapupo.vercel.app/index.html" target="_blank">🔗 Portfólio</a></strong></p>
+  
+  <p  align="center"><strong>👩🏽‍🎓 Estudante do curso da Ciência da Informação - Ufsc</strong></p>
 
+  <p  align="center"><strong>📧 Contato por email: brunapupopupo@gmail.com</strong></p>
  <div> 
 <!--   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://www.linkedin.com/in/bruna-dias-pupo-0ab221199/target="target="_blank"></a>  -->
  
