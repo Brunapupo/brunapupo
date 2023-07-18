@@ -36,10 +36,4 @@
   <p  align="center"><strong>📧 Contact by email: brunapupopupo@gmail.com</strong></p>
   <br>
                                                                                  
-  <div> 
-    <!--   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://www.linkedin.com/in/bruna-dias-pupo-0ab221199/target="target="_blank"></a>  -->
- 
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
 </div>
