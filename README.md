@@ -8,6 +8,8 @@
   <p>👋 Hi, I'm Bruna. I'm a Frontend developer. I love spending time writing CSS and learning new technologies. Every so often, I play video games.</p>
   
   <br>
+
+   <!--
   <div align="center">
     <a href="https://github.com/Brunapupo">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunapupo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -15,6 +17,7 @@
       
   
   </div>
+   -->
 
   <br>
 
