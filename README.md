@@ -1,9 +1,9 @@
 
 <div>
   <div align="center" class="mx-auto">
-    <img height="200" width="200" src="https://camo.githubusercontent.com/3707539fec854f63053bbd9ba66ffb8b4edc10c230c6bc5a667b83aa4a34bc87/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78554f774730674532494c4f31584b486c752f67697068792e676966" alt="GIF Cat">
-    <img height="180" width="200" src="https://camo.githubusercontent.com/9867164916f1f18f2d8aa2e608e95aa7e40f7d348306fbb9a0a433741a75ddf2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5933356870426e6630464979566e4c4653772f67697068792e676966" alt="GIF Cat">
-  </div>
+     <img height="200" width="200" src="https://media.giphy.com/media/xUOwG0gE2ILO1XKHlu/giphy.gif" alt="GIF Cat">
+    <img height="180" width="200" src="https://media.giphy.com/media/Y35hpBnf0FIyVnLFSw/giphy.gif" alt="GIF Cat">
+
   <br>
 
   <p>👋 Hello everyone, I'm Bruna, a FullStack developer working in the telehealth and telemedicine systems of Santa Catarina. I also worked as a researcher in artificial intelligence, focusing on Large Language Models (LLMs). I love spending my time reading good books and mangas. Every now and then, I play video games.</p>
