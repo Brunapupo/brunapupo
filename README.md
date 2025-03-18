@@ -6,7 +6,7 @@
   </div>
   <br>
 
-  <p>👋Hello everyone, I'm Bruna, a FullStack developer working in the telehealth and telemedicine systems of Santa Catarina. I also worked as a researcher in artificial intelligence, focusing on Large Language Models (LLMs). I love spending my time reading good books and mangas. Every now and then, I play video games.</p>
+  <p>👋 Hello everyone, I'm Bruna, a FullStack developer working in the telehealth and telemedicine systems of Santa Catarina. I also worked as a researcher in artificial intelligence, focusing on Large Language Models (LLMs). I love spending my time reading good books and mangas. Every now and then, I play video games.</p>
   
   <br>
 
@@ -44,7 +44,7 @@
   <br>
   <p align="center"><strong><a href="https://portfolio-brunapupo.vercel.app/index.html" target="_blank">🔗 Portfólio</a></strong></p>
   
-  <p  align="center"><strong>👩🏽‍🎓 Student of Information Science course - Ufsc</strong></p>
+  <p  align="center"><strong>👩🏽‍🎓 Master's student in Computer Science - UFSC</strong></p>
 
   <p  align="center"><strong>📧 Contact by email: brunapupopupo@gmail.com</strong></p>
   <br>
