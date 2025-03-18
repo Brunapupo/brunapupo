@@ -1,9 +1,17 @@
 
 <div>
   <div align="center" class="mx-auto">
-     <img height="200" width="200" src="https://media.giphy.com/media/xUOwG0gE2ILO1XKHlu/giphy.gif" alt="GIF Cat">
+<!--     <img height="200" width="200" src="https://media.giphy.com/media/xUOwG0gE2ILO1XKHlu/giphy.gif" alt="GIF Cat">
     <img height="180" width="200" src="https://media.giphy.com/media/Y35hpBnf0FIyVnLFSw/giphy.gif" alt="GIF Cat">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNxYmlxNjU0NmRpbXAzdG9pZ3h2M2NoamIxdnJkYWkzaDF5bmNzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BkBT1nE8qD3g8RnnDb/giphy.gif" alt="GIF" height="200" width="250">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDB3emRzdjNscGh4cHUzM2FmcTFrM3IydjRlMnViaG1ldHRheHMwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6qnA9zvhZmla/giphy.gif" alt="GIF" height="200" width="250"> -->
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJqbzV4YzlkNnkzYjB0ZHhiNW4zdTlvcnc5aGE0dWc1MzF2aHBnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BsJNWf7J70RJS/giphy.gif" alt="GIF" height="200" width="250">
+    
 
+  <br>
+   
+  <br>
+   
   <br>
 
   <p>👋 Hello everyone, I'm Bruna, a FullStack developer working in the telehealth and telemedicine systems of Santa Catarina. I also worked as a researcher in artificial intelligence, focusing on Large Language Models (LLMs). I love spending my time reading good books and mangas. Every now and then, I play video games.</p>
