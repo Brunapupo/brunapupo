@@ -22,16 +22,16 @@
   <br>
 
   <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Brunapupo-Html" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Brunapupo-css3" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Brunapupo-css3" height="50" width="70" src="
-            <i class="devicon-graphql-plain colored"></i>
-          ">
-    <img align="center" alt="Brunapupo-css3" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Brunapupo-react" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Brunapupo-react" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg">
+    <img align="center" alt="Brunapupo-react" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg">
+    <img align="center" alt="Brunapupo-react" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
+    <img align="center" alt="Brunapupo-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Brunapupo-Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg">
+    <img align="center" alt="Brunapupo-Python" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
     <img align="center" alt="Brunapupo-flutter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="Brunapupo-dart" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img align="center" alt="Brunapupo-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    
 
 
 
