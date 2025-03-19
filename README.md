@@ -51,7 +51,10 @@
   <br>
   <br>
   <p align="center"><strong><a href="https://portfolio-brunapupo.vercel.app/index.html" target="_blank">🔗 Portfólio</a></strong></p>
-  
+
+
+  <p  align="center"><strong>📚 Bachelor’s in Information Science - UFSC</strong></p>
+  <br>
   <p  align="center"><strong>👩🏽‍🎓 Master's student in Computer Science - UFSC</strong></p>
 
   <p  align="center"><strong>📧 Contact by email: brunapupopupo@gmail.com</strong></p>
